@@ -36,15 +36,15 @@
 # 시퀀스 다이어그램 초안
 *****
 ### 포인트 충전<br>
-![img_1.png](img_1.png)<br>
+![img_1.png](img/img_1.png)<br>
 
 ### 상품 조회<br>
-![img_2.png](img_2.png)<br>
+![img_2.png](img/img_2.png)<br>
 
 ### 주문 결제<br>
-![img_3.png](img_3.png)<br>
+![img_3.png](img/img_3.png)<br>
 
 
-
-
-
+# ERD
+****
+![img_4.png](img/img_4.png)

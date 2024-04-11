@@ -8,6 +8,7 @@ public class ECommerceSeviceWeek3Application {
 
     public static void main(String[] args) {
         SpringApplication.run(ECommerceSeviceWeek3Application.class, args);
+        System.out.println("하이");
     }
 
 }
