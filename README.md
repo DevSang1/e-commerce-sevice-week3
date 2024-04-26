@@ -24,6 +24,9 @@
 
 # Git Branch 전략
 ****
+master : 마스터 브랜치<br>
+dev : 테스트를 위한 feat 브랜치를 머지하는 브랜치<br>
+feat : 개발자 개인 브랜치<br>
 
 # 서버 환경
 ****
